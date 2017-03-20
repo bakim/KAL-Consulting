@@ -1,6 +1,7 @@
 # KAL-Consulting
 
 “Database Design and Development”
+
 6/2016
 
 Developed a SQL database application in a team in a simulation to analyze data and resolve food safety issues for Chipotle Restaurants Inc.
